@@ -1,6 +1,6 @@
-# car_price_predictor
-summary of findings 
-Key Findings
+## car_price_predictor
+### summary of findings 
+#### Key Findings
 Top Factors Influencing Car Prices:
 
 Car Age: Older cars are significantly less expensive, as they lose value over time.
@@ -33,5 +33,4 @@ Customer Segmentation:
 Leverage price-per-mile and car age to segment inventory for different customer groups (e.g., budget buyers vs. value-seeking buyers).
 
 
-
-a link to the notebook: 
+### link to the notebook: https://github.com/ylanjewar/car_price_predictor
